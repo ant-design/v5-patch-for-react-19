@@ -1,3 +1,5 @@
+'use client';
+
 import { unstableSetRender } from 'antd';
 import { createRoot } from 'react-dom/client';
 

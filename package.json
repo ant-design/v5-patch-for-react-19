@@ -27,7 +27,7 @@
     "compile": "father build",
     "coverage": "rc-test --coverage",
     "lint": "eslint src/ docs/examples/ --ext .tsx,.ts,.jsx,.js",
-    "prepublishOnly": "npm run compile && np --yolo --no-publish",
+    "prepublishOnly": "npm run compile",
     "start": "dumi dev",
     "test": "rc-test"
   },
