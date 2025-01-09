@@ -33,7 +33,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@rc-component/father-plugin": "^1.0.0",
+    "@rc-component/father-plugin": "^2.0.1",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^16.1.0",
     "@types/classnames": "^2.2.10",
