@@ -21,3 +21,9 @@ unstableSetRender((node, container: ContainerType) => {
       }, 0);
     });
 });
+
+
+// Fix the warning for next-15 : antd v5 support React is 16 ~ 18. see https://u.ant.design/v5-for-19 for compatible.
+export default function Fix(){
+  return null
+}
